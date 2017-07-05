@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "FruitieX",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/FruitieX/simple-fixtures"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.24.1",
