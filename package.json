@@ -1,0 +1,17 @@
+{
+  "name": "simple-fixtures",
+  "version": "1.0.0",
+  "description": "Generate fixtures easily",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist --source-maps",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FruitieX",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015-node": "^6.1.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
